@@ -1,0 +1,48 @@
+[
+    {
+      "name": "image1.jpg",
+      "polygon":
+        [
+            {
+            "label": 0,
+            "annotations":"123,123;1312,123;"
+            },
+            {
+            "label": 2,
+            "annotations":"12,23;22,33;"
+            }
+        ]
+    },
+    {
+      "name": "image2.jpg",
+      "polygon": 
+        [
+            {
+            "label": 1,
+            "annotations":"123,12;31,23;"
+            },
+            {
+            "label": 0,
+            "annotations":"12,222;444,555;"
+            },
+            {
+            "label": 1,
+            "annotations":"123,12;31,23;"
+            }
+        ]
+    },
+    {
+      "name": "image1.jpg",
+      "polygon":
+        [
+            {
+            "label": 0,
+            "annotations":"123,124;1312,125;"
+            },
+            {
+            "label": 2,
+            "annotations":"12,23;22,36;"
+            }
+        ]
+    }
+]
